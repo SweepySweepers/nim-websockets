@@ -1,1 +1,1 @@
-TODO - Document this repo
+Websockets library for Nim
